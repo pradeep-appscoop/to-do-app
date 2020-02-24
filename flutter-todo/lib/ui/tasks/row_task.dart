@@ -62,7 +62,9 @@ class TaskRow extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
-      onTap: () {},
+      onTap: () {
+        FocusScopeNode currentFocus = FocusScope.of(context);
+      },
       child: Column(
         children: <Widget>[
           Container(
