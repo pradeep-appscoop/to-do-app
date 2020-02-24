@@ -1,0 +1,173 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [:sqflite] /Users/appscoop/Desktop/flutter-todo/build/sqflite/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] /Users/appscoop/Desktop/flutter-todo/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-14:12
+MERGED from [:path_provider] /Users/appscoop/Desktop/flutter-todo/build/path_provider/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c078a1f99098e29358d291bcd2709af4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/399185250d758a7dca5ab80be3a90f1f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/ee4da6664088687315e0294af1157205/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/657bc2bb5f1180782b4a27ce4c9b10e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/053eb6fa5ff6b1ea791379b06a4ed4ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/764b5d5b304a348dccf176009983fe67/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8a49cf30c9941cb39cd831594bb6a268/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/dd53c3b1ffc108699b84613caf83b10f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/260d0ddf0b1242c1b6bee1fb7b2eaae8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/414e6fd0e3f1e16743fc33d22080d2f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/65c011c2338d5378deac53a28b418740/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/915451c27f10d30ea2a184456ff21b70/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/230455b588ea4a6a3352a129c014d5c3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/698d476f4d00f1b57e95a34a2a60d5d3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2db3f275e31d0596f07b4744a7470426/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ea469dc9024b11d307e3dda38afcf0a1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7c11d74202bfe3066a1a70e3ec1bd302/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/28743b9fab4ffe72ff9da6a90bb08136/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/30da54e868d59b99e2148b779aa4ad69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/7b93dcb7d1c54e25c1d0f0a43f5c7f84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/62529632f94d2d062acea106b997cfdd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/26346016dae9d3c1108c82b1a6200a19/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0ec9079660d4ad27d497ccaba4588f32/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:2:5-38
+		INJECTED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:8:22-64
+application
+ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:15:5-38:19
+MERGED from [:url_launcher] /Users/appscoop/Desktop/flutter-todo/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /Users/appscoop/Desktop/flutter-todo/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/915451c27f10d30ea2a184456ff21b70/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/915451c27f10d30ea2a184456ff21b70/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/28743b9fab4ffe72ff9da6a90bb08136/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/28743b9fab4ffe72ff9da6a90bb08136/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/915451c27f10d30ea2a184456ff21b70/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:17:9-37
+	android:icon
+		ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:18:9-43
+	android:name
+		ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:16:9-57
+activity#com.flutter.fluttertodo.MainActivity
+ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:19:9-37:20
+	android:launchMode
+		ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:21:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:24:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:23:13-137
+	android:theme
+		ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:20:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:30:13-32:40
+	android:value
+		ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:32:17-37
+	android:name
+		ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:31:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml
+MERGED from [:sqflite] /Users/appscoop/Desktop/flutter-todo/build/sqflite/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/appscoop/Desktop/flutter-todo/build/sqflite/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/appscoop/Desktop/flutter-todo/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/appscoop/Desktop/flutter-todo/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/appscoop/Desktop/flutter-todo/build/path_provider/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/appscoop/Desktop/flutter-todo/build/path_provider/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c078a1f99098e29358d291bcd2709af4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/c078a1f99098e29358d291bcd2709af4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/399185250d758a7dca5ab80be3a90f1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/399185250d758a7dca5ab80be3a90f1f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/ee4da6664088687315e0294af1157205/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/ee4da6664088687315e0294af1157205/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/657bc2bb5f1180782b4a27ce4c9b10e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/657bc2bb5f1180782b4a27ce4c9b10e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/053eb6fa5ff6b1ea791379b06a4ed4ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/053eb6fa5ff6b1ea791379b06a4ed4ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/764b5d5b304a348dccf176009983fe67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/764b5d5b304a348dccf176009983fe67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8a49cf30c9941cb39cd831594bb6a268/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/8a49cf30c9941cb39cd831594bb6a268/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/dd53c3b1ffc108699b84613caf83b10f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/dd53c3b1ffc108699b84613caf83b10f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/260d0ddf0b1242c1b6bee1fb7b2eaae8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/260d0ddf0b1242c1b6bee1fb7b2eaae8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/414e6fd0e3f1e16743fc33d22080d2f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/414e6fd0e3f1e16743fc33d22080d2f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/65c011c2338d5378deac53a28b418740/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/65c011c2338d5378deac53a28b418740/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/915451c27f10d30ea2a184456ff21b70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/915451c27f10d30ea2a184456ff21b70/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/230455b588ea4a6a3352a129c014d5c3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/230455b588ea4a6a3352a129c014d5c3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/698d476f4d00f1b57e95a34a2a60d5d3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/698d476f4d00f1b57e95a34a2a60d5d3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2db3f275e31d0596f07b4744a7470426/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2db3f275e31d0596f07b4744a7470426/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ea469dc9024b11d307e3dda38afcf0a1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ea469dc9024b11d307e3dda38afcf0a1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7c11d74202bfe3066a1a70e3ec1bd302/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7c11d74202bfe3066a1a70e3ec1bd302/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/28743b9fab4ffe72ff9da6a90bb08136/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/28743b9fab4ffe72ff9da6a90bb08136/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/30da54e868d59b99e2148b779aa4ad69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/30da54e868d59b99e2148b779aa4ad69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/7b93dcb7d1c54e25c1d0f0a43f5c7f84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/7b93dcb7d1c54e25c1d0f0a43f5c7f84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/62529632f94d2d062acea106b997cfdd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/62529632f94d2d062acea106b997cfdd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/26346016dae9d3c1108c82b1a6200a19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/26346016dae9d3c1108c82b1a6200a19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0ec9079660d4ad27d497ccaba4588f32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/appscoop/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/0ec9079660d4ad27d497ccaba4588f32/AndroidManifest.xml:20:5-44
+INJECTED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/appscoop/Desktop/flutter-todo/android/app/src/main/AndroidManifest.xml
+activity#io.flutter.plugins.urllauncher.UrlLauncherPlugin$WebViewActivity
+ADDED from [:url_launcher] /Users/appscoop/Desktop/flutter-todo/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /Users/appscoop/Desktop/flutter-todo/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /Users/appscoop/Desktop/flutter-todo/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /Users/appscoop/Desktop/flutter-todo/build/url_launcher/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:9:13-92
