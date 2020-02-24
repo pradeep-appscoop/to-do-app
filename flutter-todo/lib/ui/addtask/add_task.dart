@@ -32,7 +32,7 @@ class AddTaskScreen extends StatelessWidget {
     AddTaskBloc createTaskBloc = BlocProvider.of(context);
     return TextFormField(
       maxLines: 1,
-      keyboardType: TextInputType.multiline,
+      keyboardType: TextInputType.text,
       decoration: InputDecoration(hintText: Task_Title),
       validator: (value) {
         return value.isEmpty ? Task_Name_Empty_Error_Message : null;
@@ -47,7 +47,7 @@ class AddTaskScreen extends StatelessWidget {
     AddTaskBloc createTaskBloc = BlocProvider.of(context);
     return TextFormField(
       maxLines: 4,
-      keyboardType: TextInputType.multiline,
+      keyboardType: TextInputType.text,
       decoration: InputDecoration(hintText: Task_Description),
       validator: (value) {
         return value.isEmpty ? Task_Description_Empty_Error_Message : null;
@@ -113,12 +113,14 @@ class AddTaskScreen extends StatelessWidget {
           ),
         ],
       ),
-      body: Container(
-        color: Colors.white,
+      body: SingleChildScrollView(
         child: Container(
+          color: Colors.white,
           child: Column(
+
             children: <Widget>[
               Container(
+
                 width: MediaQuery.of(context).size.width,
                 margin: EdgeInsets.only(
                     left: PADDING_SMALL,

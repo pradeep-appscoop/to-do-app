@@ -8,9 +8,19 @@ void main() => runApp(ToDoApp());
 class ToDoApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-        debugShowCheckedModeBanner: false,
+
+    return GestureDetector(
+      onTap: () {
+        FocusScopeNode currentFocus = FocusScope.of(context);
+
+        if (!currentFocus.hasPrimaryFocus) {
+          currentFocus.unfocus();
+        }
+      },
+      child: MaterialApp(
         title: "To Do App",
-        home: BlocProvider(bloc: HomeBloc(), child: HomePage()));
+        home: BlocProvider(bloc: HomeBloc(), child: HomePage()),
+      ),
+    );
   }
 }
